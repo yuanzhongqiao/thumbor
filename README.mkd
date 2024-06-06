@@ -1,156 +1,179 @@
-<h4 align="center">Join <a href="https://github.com/thumbor/thumbor-bootcamp">thumbor-bootcamp</a> for a learning and contribution experience with ❤️ and 🤗 from the thumbor team</h4>
-
-<p align="center">
-  <a href="http://www.thumbor.org">
-    <img title="thumbor" alt="thumbor" src="https://github.com/thumbor/thumbor/blob/readme/docs/thumbor-logo.png?raw=true" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h4 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入</font></font><a href="https://github.com/thumbor/thumbor-bootcamp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thumbor-bootcamp，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 thumbor 团队的 ❤️ 和 🤗 一起学习并做出贡献</font></font></h4><a id="user-content-join-thumbor-bootcamp-for-a-learning-and-contribution-experience-with-️-and--from-the-thumbor-team" class="anchor" aria-label="永久链接：加入 thumbor-bootcamp，与 thumbor 团队一起享受 ❤️ 和 🤗 的学习和贡献体验" href="#join-thumbor-bootcamp-for-a-learning-and-contribution-experience-with-️-and--from-the-thumbor-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <a href="http://www.thumbor.org" rel="nofollow">
+    <img title="拇指" alt="拇指" src="https://github.com/thumbor/thumbor/raw/readme/docs/thumbor-logo.png?raw=true" style="max-width: 100%;">
   </a>
 </p>
-
-<h3 align="center">
-Crop, resize, transform and much more, all on-demand and AI Powered
-</h3>
-
-<p align="center">
-  <img src='https://github.com/thumbor/thumbor/workflows/build/badge.svg' />
-  <a href='https://coveralls.io/github/thumbor/thumbor?branch=master' target='_blank'>
-    <img src='https://coveralls.io/repos/thumbor/thumbor/badge.svg?branch=master&service=github'/>
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+裁剪、调整大小、变换等等，全部按需进行，由 AI 提供支持
+</font></font></h3><a id="user-content-crop-resize-transform-and-much-more-all-on-demand-and-ai-powered" class="anchor" aria-label="永久链接：裁剪、调整大小、变换等等，全部按需进行，由人工智能驱动
+" href="#crop-resize-transform-and-much-more-all-on-demand-and-ai-powered"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/workflows/build/badge.svg"><img src="https://github.com/thumbor/thumbor/workflows/build/badge.svg" style="max-width: 100%;"></a>
+  <a href="https://coveralls.io/github/thumbor/thumbor?branch=master" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/90c1a10d31f892ca7f5d42791212f5c425711551c25e2b3fdac768100746e2c6/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f7468756d626f722f7468756d626f722f62616467652e7376673f6272616e63683d6d617374657226736572766963653d676974687562" data-canonical-src="https://coveralls.io/repos/thumbor/thumbor/badge.svg?branch=master&amp;service=github" style="max-width: 100%;">
   </a>
-  <a href='https://codeclimate.com/github/thumbor/thumbor' target='_blank'>
-    <img src='https://codeclimate.com/github/thumbor/thumbor/badges/gpa.svg'/>
+  <a href="https://codeclimate.com/github/thumbor/thumbor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/9bb776f47dd7ec22cd45df9a1aa17bd381232019e824b99b15858c5ae03f0f69/68747470733a2f2f636f6465636c696d6174652e636f6d2f6769746875622f7468756d626f722f7468756d626f722f6261646765732f6770612e737667" data-canonical-src="https://codeclimate.com/github/thumbor/thumbor/badges/gpa.svg" style="max-width: 100%;">
   </a>
-  <a href='https://pypi.python.org/pypi/thumbor' target='_blank'>
-    <img src='https://img.shields.io/pypi/v/thumbor.svg'/>
+  <a href="https://pypi.python.org/pypi/thumbor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/dd49350c7c43273182299e30a28a93bee876d24943e8dff172a84e295b07d126/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7468756d626f722e737667" data-canonical-src="https://img.shields.io/pypi/v/thumbor.svg" style="max-width: 100%;">
   </a>
-  <br />
-  <a href='https://github.com/thumbor/thumbor/pulls' target='_blank'>
-    <img src='https://img.shields.io/github/issues-pr-raw/thumbor/thumbor.svg'/>
+  <br>
+  <a href="https://github.com/thumbor/thumbor/pulls">
+    <img src="https://camo.githubusercontent.com/3611a609418f13561d1141b1f99edce23bf9f0094c2e024cee479b32a44bfdeb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722d7261772f7468756d626f722f7468756d626f722e737667" data-canonical-src="https://img.shields.io/github/issues-pr-raw/thumbor/thumbor.svg" style="max-width: 100%;">
   </a>
-  <a href='https://github.com/thumbor/thumbor/issues' target='_blank'>
-    <img src='https://img.shields.io/github/issues-raw/thumbor/thumbor.svg'/>
+  <a href="https://github.com/thumbor/thumbor/issues">
+    <img src="https://camo.githubusercontent.com/5ecaacc05a531d30e71f078dbb67cd31e2096bf36548ce35732298a266f5cc3a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f7468756d626f722f7468756d626f722e737667" data-canonical-src="https://img.shields.io/github/issues-raw/thumbor/thumbor.svg" style="max-width: 100%;">
   </a>
-  <a href='https://pypi.python.org/pypi/thumbor' target='_blank'>
-    <img src='https://img.shields.io/pypi/dm/thumbor.svg'/>
+  <a href="https://pypi.python.org/pypi/thumbor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/3841f515fdc1aaf1fb87ca366446c9656cbb8a55b282167feecb2cad9554d10f/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7468756d626f722e737667" data-canonical-src="https://img.shields.io/pypi/dm/thumbor.svg" style="max-width: 100%;">
   </a>
-  <a href='https://www.bountysource.com/trackers/257692-globocom-thumbor?utm_source=257692&utm_medium=shield&utm_campaign=TRACKER_BADGE' target='_blank'>
-    <img src='https://www.bountysource.com/badge/tracker?tracker_id=257692'/>
+  <a href="https://www.bountysource.com/trackers/257692-globocom-thumbor?utm_source=257692&amp;utm_medium=shield&amp;utm_campaign=TRACKER_BADGE" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/345138d4d8d487e5af4422dc58ea09e330bd8b0d4182e4c76f15859f0c743a32/68747470733a2f2f7777772e626f756e7479736f757263652e636f6d2f62616467652f747261636b65723f747261636b65725f69643d323537363932" data-canonical-src="https://www.bountysource.com/badge/tracker?tracker_id=257692" style="max-width: 100%;">
   </a>
 </p>
+<div class="markdown-heading" dir="auto"><h4 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thumbor 受到全球数百家公司的信任</font></font></h4><a id="user-content-thumbor-is-trusted-by-hundreds-of-companies-worldwide" class="anchor" aria-label="永久链接：thumbor 受到全球数百家公司的信任" href="#thumbor-is-trusted-by-hundreds-of-companies-worldwide"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/thumbor/thumbor/blob/master/docs/wikipedia.png"><img src="/thumbor/thumbor/raw/master/docs/wikipedia.png" alt="维基百科信任 thumbor" title="维基百科信任 thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/globocom.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/globocom.png?raw=true" alt="Globo.com 信任 thumbor" title="Globo.com 信任 thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/vox.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/vox.png?raw=true" alt="Vox Media 信任 Thumbor" title="Vox Media 信任 Thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/forbes-logo.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/forbes-logo.png?raw=true" alt="福布斯信托公司" title="福布斯信托公司" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/squareup.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/squareup.png?raw=true" alt="Square 信托公司" title="Square 信托公司" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/deliveroo.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/deliveroo.png?raw=true" alt="Deliveroo 信任 Thumbor" title="Deliveroo 信任 Thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/canalplus.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/canalplus.png?raw=true" alt="Canal+ 信任 Thumbor" title="Canal+ 信任 Thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/terra.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/terra.png?raw=true" alt="Terra 信任 thumbor" title="Terra 信任 thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/nrc.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/nrc.png?raw=true" alt="nrc 信托" title="nrc 信托" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/webdev.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/webdev.png?raw=true" alt="web.dev 表示高性能网站的 thumbor" title="web.dev 表示高性能网站的 thumbor" width="128" height="128" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/thumbor/thumbor/blob/readme/docs/aws.png?raw=true"><img src="https://github.com/thumbor/thumbor/raw/readme/docs/aws.png?raw=true" alt="aws 表示，Thumbor 可用于无服务器图像处理" title="aws 表示，Thumbor 可用于无服务器图像处理" width="128" height="128" style="max-width: 100%;"></a>
+  <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  还有很多！
+</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thumbor 是一种智能图像服务，可以按需</font></font><a href="http://thumbor.readthedocs.io/en/latest/crop_and_resize_algorithms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">裁剪、调整大小、应用过滤器和优化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动裁剪照片可能会是一个令人沮丧的体验，尤其是当涉及到被砍下的头颅时。thumbor 使用</font></font><a href="http://thumbor.readthedocs.io/en/latest/detection_algorithms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能进行智能检测</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thumbor 是一个 HTTP 服务器，您可以通过改变路径参数来创建任意数量的不同图像：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>http://&lt;thumbor-server&gt;/300x200/smart/thumbor.readthedocs.io/en/latest/_images/logo-thumbor.png
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="http://<thumbor-server>/300x200/smart/thumbor.readthedocs.io/en/latest/_images/logo-thumbor.png" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您应该会看到 300x200 的 Thumbor 徽标图像。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="http://thumbor.readthedocs.io/en/latest/index.html" title="thumbor 文档" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在thumbor 的文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中详细了解您可以执行的所有操作</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚙️ 安装</font></font></h2><a id="user-content-️-installation" class="anchor" aria-label="固定链接：⚙️ 安装" href="#️-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">确定要使用的安装选项。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项 1：pip</font></font></h3><a id="user-content-option-1-pip" class="anchor" aria-label="永久链接：选项 1：pip" href="#option-1-pip"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> thumbor with main dependencies only</span>
+pip install thumbor
 
-<h4 align="center">thumbor is trusted by hundreds of companies worldwide</h4>
-<p align="center">
-  <img src="./docs/wikipedia.png" alt="Wikipedia trusts thumbor" title="Wikipedia trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/globocom.png?raw=true" alt="Globo.com trusts thumbor" title="Globo.com trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/vox.png?raw=true" alt="Vox Media trusts thumbor" title="Vox Media trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/forbes-logo.png?raw=true" alt="Forbes trusts thumbor" title="Forbes trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/squareup.png?raw=true" alt="Square trusts thumbor" title="Square trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/deliveroo.png?raw=true" alt="Deliveroo trusts thumbor" title="Deliveroo trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/canalplus.png?raw=true" alt="Canal+ trusts thumbor" title="Canal+ trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/terra.png?raw=true" alt="Terra trusts thumbor" title="Terra trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/nrc.png?raw=true" alt="nrc trusts thumbor" title="nrc trusts thumbor" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/webdev.png?raw=true" alt="web.dev indicates thumbor for high-performance web sites" title="web.dev indicates thumbor for high-performance web sites" width="128" height="128" />&nbsp;
-  <img src="https://github.com/thumbor/thumbor/blob/readme/docs/aws.png?raw=true" alt="aws indicates thumbor for serverless image handling" title="aws indicates thumbor for serverless image handling" width="128" height="128" />
-  <br />
-  and many more!
-</p>
+<span class="pl-c"><span class="pl-c">#</span> thumbor with OpenCV dependency</span>
+pip install thumbor[opencv]
 
-thumbor is a smart imaging service that enables on-demand [cropping, resizing, applying filters and optimizing](http://thumbor.readthedocs.io/en/latest/crop_and_resize_algorithms.html) images.
-
-Cropping photos automatically can be a frustrating experience with severed heads involved. thumbor
-uses [AI for smart detection](http://thumbor.readthedocs.io/en/latest/detection_algorithms.html).
-
-thumbor is an HTTP server and you can create as many different images as you want just by varying path parameters:
-
-```
-http://<thumbor-server>/300x200/smart/thumbor.readthedocs.io/en/latest/_images/logo-thumbor.png
-```
-
-You should see an image of the thumbor logo in 300x200.
-
-Learn more about all you can do in [thumbor's documentation](http://thumbor.readthedocs.io/en/latest/index.html "thumbor docs").
-
-## ⚙️ Installation
-
-Decide which installation option you want to use.
-
-### Option 1: pip
-
-```bash
-# thumbor with main dependencies only
+<span class="pl-c"><span class="pl-c">#</span> thumbor with all dependencies</span>
+pip install thumbor[all]</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# thumbor with main dependencies only
 pip install thumbor
 
 # thumbor with OpenCV dependency
 pip install thumbor[opencv]
 
 # thumbor with all dependencies
-pip install thumbor[all]
-```
-
-### Option 2: Binary
-
-```bash
-sudo add-apt-repository ppa:thumbor/ppa
+pip install thumbor[all]" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项 2：二进制</font></font></h3><a id="user-content-option-2-binary" class="anchor" aria-label="永久链接：选项 2：二进制" href="#option-2-binary"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>sudo add-apt-repository ppa:thumbor/ppa
 sudo aptitude update
-sudo aptitude install thumbor
-```
-
-For more ways, please check out [Installation](https://thumbor.readthedocs.io/en/latest/installing.html).
-
-### Run
-
-Running it is as easy as hit:
-
-```bash
-thumbor
-```
-
-After this, you can reach it on https://localhost:8888/unsafe/https://raw.githubusercontent.com/thumbor/thumbor/master/example.jpg
-
-### Troubles?
-
-If you experience any troubles, try running:
-
-```bash
-thumbor-doctor
-```
-
-If you have a `thumbor.conf` file, you can use that to help thumbor-doctor:
-
-```bash
-thumbor-doctor -c thumbor.conf
-```
-
-If you still need help, please [raise an issue](https://github.com/thumbor/thumbor/issues). Remember to send your `thumbor-doctor` output in the issue:
-
-```bash
-thumbor-doctor --nocolor -c thumbor.conf
-```
-
-## 🎯 Features
-
-- supports all common images formats out of the box
-- [intelligent cropping and resizing](http://thumbor.readthedocs.io/en/latest/detection_algorithms.html)
-- blazing fast using caching
-- supports many storages (local storage, AWS S3, Rackspace, Ceph, ...)
-- AI-powered cropping based on face and feature detection (glasses, interesting points, ...)
-- integrated with many programming languages and frameworks <img src="https://www.python.org/favicon.ico" width="16" height="16" /><img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" /><img src="https://rubygems.org/favicon.ico" width="16" height="16" /> and many more...
-- [highly extensible](https://thumbor.readthedocs.io/en/latest/customizing.html)
-
-## 🌟 Awesome Goodies
-
-[awesome-thumbor](https://github.com/thumbor/awesome-thumbor) is a curated list of all things thumbor. There you can find filters, storages, engines, loaders, docker images, extensions in your favorite language and framework, and much more.
-
-All of it with a clear indication of each project's quality. Have fun!
-
-## 👍 Contribute
-
-thumbor is an open-source project with many contributors. Join them
-[contributing code](https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md) or
-[contributing documentation](https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md).
-
-If you use thumbor, please take 1 minute and answer [this survey](http://t.co/qPBLXJX0mi)? Only 2 questions!
-
-Join the chat at https://gitter.im/thumbor/thumbor
-
-## 👀 Demo
-
-You can see thumbor in action at http://thumborize.me/
+sudo aptitude install thumbor</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo add-apt-repository ppa:thumbor/ppa
+sudo aptitude update
+sudo aptitude install thumbor" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多方法请查看</font></font><a href="https://thumbor.readthedocs.io/en/latest/installing.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font></h3><a id="user-content-run" class="anchor" aria-label="永久链接：运行" href="#run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行它就像点击一样简单：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>thumbor</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="thumbor" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之后，您可以通过</font></font><a href="https://localhost:8888/unsafe/https://raw.githubusercontent.com/thumbor/thumbor/master/example.jpg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://localhost:8888/unsafe/https://raw.githubusercontent.com/thumbor/thumbor/master/example.jpg访问它</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有麻烦吗？</font></font></h3><a id="user-content-troubles" class="anchor" aria-label="永久链接： 有麻烦吗？" href="#troubles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您遇到任何问题，请尝试运行：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>thumbor-doctor</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="thumbor-doctor" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有一个</font></font><code>thumbor.conf</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件，您可以使用它来帮助 thumbor-doctor：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>thumbor-doctor -c thumbor.conf</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="thumbor-doctor -c thumbor.conf" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果你仍然需要帮助，请</font></font><a href="https://github.com/thumbor/thumbor/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提出问题</font></font></a><font style="vertical-align: inherit;"></font><code>thumbor-doctor</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。请记住在问题中</font><font style="vertical-align: inherit;">发送你的输出：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>thumbor-doctor --nocolor -c thumbor.conf</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="thumbor-doctor --nocolor -c thumbor.conf" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎯 功能</font></font></h2><a id="user-content--features" class="anchor" aria-label="固定链接：🎯 功能" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持所有常见的开箱即用图像格式</font></font></li>
+<li><a href="http://thumbor.readthedocs.io/en/latest/detection_algorithms.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智能裁剪和调整大小</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用缓存，速度极快</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持多种存储（本地存储、AWS S3、Rackspace、Ceph 等）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于面部和特征检测（眼镜、兴趣点等）的人工智能裁剪</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与多种编程语言和框架集成</font><font style="vertical-align: inherit;">等等......</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/70b5209bfc37565a5ceebfda59e21b8477ebc3f655480d1b535a8b248728eb1b/68747470733a2f2f7777772e707974686f6e2e6f72672f66617669636f6e2e69636f"><img src="https://camo.githubusercontent.com/70b5209bfc37565a5ceebfda59e21b8477ebc3f655480d1b535a8b248728eb1b/68747470733a2f2f7777772e707974686f6e2e6f72672f66617669636f6e2e69636f" width="16" height="16" data-canonical-src="https://www.python.org/favicon.ico" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6d6040d822735ccc498e340ed27a02c59f2e6e83e388fbf037e29794853b085/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f66617669636f6e2e706e67"><img src="https://camo.githubusercontent.com/b6d6040d822735ccc498e340ed27a02c59f2e6e83e388fbf037e29794853b085/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f66617669636f6e732f66617669636f6e2e706e67" width="16" height="16" data-canonical-src="https://nodejs.org/static/images/favicons/favicon.png" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24b2e8738ada87f025ef1d9123fe90d173071b7eb9d41242fbc4278e2b2315e0/68747470733a2f2f7275627967656d732e6f72672f66617669636f6e2e69636f"><img src="https://camo.githubusercontent.com/24b2e8738ada87f025ef1d9123fe90d173071b7eb9d41242fbc4278e2b2315e0/68747470733a2f2f7275627967656d732e6f72672f66617669636f6e2e69636f" width="16" height="16" data-canonical-src="https://rubygems.org/favicon.ico" style="max-width: 100%;"></a><font style="vertical-align: inherit;"></font></li>
+<li><a href="https://thumbor.readthedocs.io/en/latest/customizing.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高度可扩展</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 超棒的好东西</font></font></h2><a id="user-content--awesome-goodies" class="anchor" aria-label="永久链接：🌟 超棒的好东西" href="#-awesome-goodies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/thumbor/awesome-thumbor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">awesome-thumbor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是精选的 thumbor 内容列表。在这里，您可以找到过滤器、存储、引擎、加载器、docker 镜像、您最喜欢的语言和框架的扩展等等。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有这些都清楚地表明了每个项目的质量。玩得开心！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👍 贡献</font></font></h2><a id="user-content--contribute" class="anchor" aria-label="永久链接：👍 贡献" href="#-contribute"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">thumbor 是一个开源项目，拥有许多贡献者。加入他们，
+</font></font><a href="https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献代码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或
+</font></font><a href="https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用 thumbor，请花 1 分钟回答</font></font><a href="http://t.co/qPBLXJX0mi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此调查</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">？只有 2 个问题！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入聊天</font></font><a href="https://gitter.im/thumbor/thumbor" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://gitter.im/thumbor/thumbor</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👀 演示</font></font></h2><a id="user-content--demo" class="anchor" aria-label="永久链接：👀 演示" href="#-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="http://thumborize.me/" rel="nofollow"><font style="vertical-align: inherit;">您可以在http://thumborize.me/</font></a><font style="vertical-align: inherit;">上查看 thumbor 的实际运行情况</font></font><a href="http://thumborize.me/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+</article></div>
